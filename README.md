@@ -21,4 +21,4 @@
 
 ## Preview:
 
-https://kamikaazeyy.github.io/Pick-Game/
+https://kamikaazeyy.github.io/Dice-Game/
